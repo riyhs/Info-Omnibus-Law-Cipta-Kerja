@@ -27,6 +27,6 @@ Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Video
 
--
+- [DPR Resmi Sahkan Omnibus Law RUU Ciptaker](https://www.youtube.com/watch?v=m-_EYWMK-Uk&t=32s)
 
 Catatan : Jika kamu memiliki Kategori lain, bisa kamu tambahkan sendiri.
