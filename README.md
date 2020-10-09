@@ -23,7 +23,7 @@ Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Berita
 
--[Daftar Pasal Bermasalah dan Kontroversi Omnibus Law RUU Cipta Kerja](https://tirto.id/daftar-pasal-bermasalah-dan-kontroversi-omnibus-law-ruu-cipta-kerja-f5AU)
+- [Daftar Pasal Bermasalah dan Kontroversi Omnibus Law RUU Cipta Kerja](https://tirto.id/daftar-pasal-bermasalah-dan-kontroversi-omnibus-law-ruu-cipta-kerja-f5AU)
 
 ### Video
 
