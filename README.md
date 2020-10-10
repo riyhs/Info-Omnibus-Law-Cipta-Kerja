@@ -26,6 +26,7 @@ Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 ### Berita
 
 - [Daftar Pasal Bermasalah dan Kontroversi Omnibus Law RUU Cipta Kerja](https://tirto.id/daftar-pasal-bermasalah-dan-kontroversi-omnibus-law-ruu-cipta-kerja-f5AU)
+- [Omnibus Law Ciptaker Bermasalah Sejak Jokowi Mengusulkannya ke DPR](https://tirto.id/omnibus-law-ciptaker-bermasalah-sejak-jokowi-mengusulkannya-ke-dpr-f5Gl)
 
 ### Video
 
