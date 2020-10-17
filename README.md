@@ -18,6 +18,7 @@ Baca panduan di [CONTRIBUTING](/CONTRIBUTING.md).
 - [UU Cipta Kerja - Paripurna.pdf 905 Halaman](https://drive.google.com/file/d/1fIA0-4JwlNZFaL8kM-oVJTaZiUsqJehJ/view?fbclid=IwAR1ezy12QjwqVl4Uht4OoNakXbhQ7Ly4F5rHsvFSCmt-424orx85MB_Hv0w)
 - [RUU Cipta kerja yang menimbulkan pro kontra](https://nasional.kontan.co.id/news/apa-itu-omnibus-law-ruu-cipta-lapangan-kerja-yang-menimbulkan-pro-kontra)
 - [ISI Tuntutan Mahasiswa Soal UU Cipta Kerja](https://tirto.id/isi-tuntutan-demo-mahasiswa-dan-buruh-hari-ini-soal-uu-cipta-kerja-f5HD)
+- [Fakta Undang-undang Omnibus Law](https://tirto.id/fakta-omnibus-law-uu-cipta-kerja-yang-disahkan-5-oktober-f5Fg)
 
 ### Petisi
 
